@@ -2,11 +2,11 @@
 
 <img src="profile-banner.svg" alt="Zigola — AI, data, and scientific computing" width="100%" />
 
-# ZIGOLA
+# OPAL_208 · ZIGOLA
 
-### Engineering ideas. Exploring intelligence. Building useful things.
+### Software development, artificial intelligence, and scientific computing.
 
-**Software Development · Artificial Intelligence · Data Science · Scientific Computing**
+**Python · AI & Machine Learning · Data Science · Bioinformatics · Earth Observation**
 
 <p>
   <a href="https://github.com/zigola"><img src="https://img.shields.io/github/followers/zigola?label=Followers&style=for-the-badge&logo=github&color=0D9488" alt="GitHub followers" /></a>
@@ -22,9 +22,9 @@
 
 ## About
 
-I am **Opal**, a biomedical sciences student from Morocco exploring the intersection of **software development, artificial intelligence, data science, and scientific computing**.
+I am **Opal_208 (@zigola)**, a **biomedical sciences student from Morocco** exploring **Python development, artificial intelligence, data science, bioinformatics, and scientific computing**.
 
-I use practical projects to learn by building, investigate technical questions, and turn ideas into understandable, testable tools. My interests connect computational methods with scientific and real-world problems.
+I build and document practical projects at the intersection of technology and science, including experiments in **machine learning, generative AI, NLP, computer vision, geospatial analysis, and Earth observation**. My work is learning-oriented: I aim to make methods understandable, results testable, and project limitations clear.
 
 My approach is grounded in four principles:
 
