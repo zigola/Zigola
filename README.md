@@ -1,173 +1,131 @@
-<div align="center">ZIGOLA
+<div align="center">
 
-Engineering Ideas. Exploring Intelligence. Building the Future.
+<img src="profile-banner.svg" alt="Zigola — AI, data, and scientific computing" width="100%" />
 
-Software Development · Artificial Intelligence · Data Science · Scientific Computing
+# ZIGOLA
 
-<p>
-  <a href="https://github.com/zigola">
-    <img src="https://img.shields.io/badge/GitHub-zigola-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-AGPL--3.0-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
-  </a>
-  <a href="https://github.com/zigola/Zigola">
-    <img src="https://img.shields.io/badge/Profile-Repository-0891B2?style=for-the-badge&logo=github" alt="Profile Repository"/>
-  </a>
-</p>"Explore Projects" (https://github.com/zigola?tab=repositories) · "Connect" (https://www.linkedin.com/in/ahmed-elinany-6771402b) · "Contribute" (#contributing)
+### Engineering ideas. Exploring intelligence. Building useful things.
 
-</div>---
-
-About This Repository
-
-Welcome to Zigola — my personal GitHub profile repository and a central space for presenting my technical interests, projects, experiments, and open-source journey.
-
-I explore the intersection of software engineering, artificial intelligence, data science, and applied scientific research. My goal is to transform ideas into practical solutions through experimentation, continuous learning, and thoughtful engineering.
-
-I believe meaningful technology is built on four fundamental principles:
-
-- Purposeful Innovation — Developing ideas that address real-world challenges and create practical value.
-- Engineering Excellence — Writing clean, maintainable, and understandable code.
-- Scientific Thinking — Approaching problems through evidence, experimentation, and reproducibility.
-- Open Collaboration — Sharing knowledge and contributing to an accessible technology ecosystem.
-
-«This repository evolves alongside my learning journey, technical experiments, and newly developed projects.»
-
-Areas of Interest
-
-Domain| Exploration & Focus
-Artificial Intelligence| Intelligent systems, machine learning, automation, and AI-powered applications
-Data Science| Data processing, exploratory analysis, visualization, and insight generation
-Python Development| Automation tools, reusable scripts, APIs, and practical applications
-Scientific Computing| Computational experiments, mathematical modeling, and data-driven analysis
-Biomedical Sciences| Scientific data analysis, computational biology, and biomedical research technologies
-Earth Observation| Satellite imagery, geospatial intelligence, environmental monitoring, and remote sensing
-Open Source| Community-driven development, knowledge sharing, and collaborative innovation
-
-What You'll Find Here
-
-This repository serves as an entry point to my broader development ecosystem.
-
-- Software Projects — Applications, utilities, and engineering experiments.
-- AI & Data Experiments — Explorations involving intelligent systems and analytical workflows.
-- Scientific Applications — Projects connecting computational technologies with scientific domains.
-- Technical Documentation — Practical guides, implementation notes, and development insights.
-- Open-Source Contributions — Public work, experiments, and opportunities for collaboration.
-
-Featured Project Areas
-
-<div align="center">Focus| Description
-🤖 AI & ML| Intelligent applications and machine learning experiments
-📊 Data| Data analysis, visualization, and processing
-🧬 Bioinformatics| Computational approaches to biological data
-🌍 Earth Intelligence| Satellite observations and environmental monitoring
-⚙️ Engineering| Software architecture, automation, and development tools
-
-</div>Explore all available repositories:
-
-"Browse Zigola's Projects →" (https://github.com/zigola?tab=repositories)
-
-Development Philosophy
-
-01 — Simplicity Before Complexity
-
-Start with a clear, focused solution. Introduce complexity only when it provides measurable value. Prioritize maintainability, clarity, and scalability.
-
-02 — Learn Through Experimentation
-
-Every experiment is an opportunity to investigate a technology, test an assumption, and understand a problem more deeply. Not every prototype needs to become a production application.
-
-03 — Documentation Is Part of Engineering
-
-Good software should be understandable and reproducible. Documentation should explain the project's purpose, architecture, setup, usage, limitations, and future direction.
-
-04 — Build in the Open
-
-Sharing knowledge, welcoming constructive feedback, and collaborating with others are essential parts of sustainable open-source development.
-
-Technology Ecosystem
-
-My technical interests and development environment include:
-
-- Programming: Python and other technologies explored through practical projects.
-- Artificial Intelligence: Machine learning, intelligent automation, and AI applications.
-- Data: Data analysis, processing, and visualization.
-- Scientific Technology: Computational biology, biomedical applications, and geospatial analysis.
-- Development: Git, GitHub, APIs, software documentation, and version control.
-
-This section represents areas of interest and exploration, not a claim of professional mastery in every technology.
-
-Exploring My Work
-
-To discover my current projects and experiments:
-
-1. Browse my "public repositories" (https://github.com/zigola?tab=repositories).
-2. Read the "README.md" of each project to understand its objectives and implementation.
-3. Review available releases and changelogs for development updates.
-4. Explore Issues and Discussions where available.
-5. Check project documentation for installation and reproducibility instructions.
-
-Contributing
-
-Contributions, suggestions, and constructive feedback are welcome.
-
-Potential contributions include:
-
-- Bug fixes and code improvements.
-- Feature proposals and technical suggestions.
-- Documentation improvements and usage examples.
-- Reproducibility enhancements.
-- Ideas for extending existing experiments.
-
-Before contributing, review the guidelines of the relevant repository. For substantial changes, consider opening an Issue first to discuss the proposal.
-
-Please keep contributions focused, respectful, well-documented, and testable whenever possible.
-
-Roadmap
-
-- [x] Establish a dedicated GitHub profile repository.
-- [x] Define the project's identity and technical focus areas.
-- [x] Document development principles and collaboration expectations.
-- [ ] Build a curated index of featured projects.
-- [ ] Expand technical documentation and reusable examples.
-- [ ] Publish additional reproducible scientific and engineering experiments.
-- [ ] Increase meaningful open-source participation.
-- [ ] Continuously improve project quality and maintainability.
-
-Connect & Explore
-
-<div align="center">Interested in technology, scientific innovation, or open-source collaboration?
-
-Let's connect and exchange ideas.
+**Software Development · Artificial Intelligence · Data Science · Scientific Computing**
 
 <p>
-  <a href="https://github.com/zigola">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-elinany-6771402b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/opal_208">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@opal_208">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.tiktok.com/@opal.208">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-</p></div>License
+  <a href="https://github.com/zigola"><img src="https://img.shields.io/github/followers/zigola?label=Followers&style=for-the-badge&logo=github&color=0D9488" alt="GitHub followers" /></a>
+  <a href="https://github.com/zigola?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-2563EB?style=for-the-badge&logo=github" alt="Explore public projects" /></a>
+  <a href="https://github.com/zigola/Zigola"><img src="https://img.shields.io/badge/Profile-README-0F766E?style=for-the-badge" alt="Profile repository" /></a>
+</p>
 
-This repository is distributed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+[Explore projects](https://github.com/zigola?tab=repositories) · [Professional profile](https://www.linkedin.com/in/ahmed-elinany-6771402b) · [Open an issue](https://github.com/zigola/Zigola/issues)
 
-See the "LICENSE" (./LICENSE) file for the complete license terms.
+</div>
 
 ---
 
-<div align="center">Explore. Experiment. Engineer. Evolve.
+## About
 
-Building knowledge through technology, science, and open collaboration.
+I am **Opal**, a biomedical sciences student from Morocco exploring the intersection of **software development, artificial intelligence, data science, and scientific computing**.
 
-© Zigola
+I use practical projects to learn by building, investigate technical questions, and turn ideas into understandable, testable tools. My interests connect computational methods with scientific and real-world problems.
+
+My approach is grounded in four principles:
+
+- **Build with purpose** — Start with a clear problem and a useful outcome.
+- **Think scientifically** — Make assumptions explicit and evaluate results carefully.
+- **Engineer responsibly** — Prefer readable, maintainable, and testable solutions.
+- **Share knowledge** — Document experiments and make collaboration approachable.
+
+## Current focus
+
+- Strengthening Python development, software design, and testing practices.
+- Exploring responsible AI, retrieval-augmented generation, NLP, computer vision, and AI agents.
+- Developing **PLEIADES**, an experimental wildfire-awareness project using satellite observations and simulated sensor data.
+- Exploring bioinformatics, biomedical data, and reproducible scientific workflows.
+- Building accessible, responsive, and maintainable web experiences.
+
+## Featured projects
+
+| Project | What it explores | Stage |
+| --- | --- | --- |
+| [PLEIADES](https://github.com/zigola/NASA-Space-Challenge-PLEIADES) | Wildfire awareness, NASA FIRMS-compatible data, MODIS/VIIRS observations, geospatial processing, and sensor simulation | Experimental project |
+| [Zigola Official Website](https://github.com/zigola/Site-officiel-zigola-) | Responsive personal website and frontend development with HTML, CSS, and JavaScript | Development |
+| [AI RAG Starter](https://github.com/zigola/ai-rag-starter-python) | Local-first document retrieval and foundations for retrieval-augmented generation | Learning project |
+| [AI Agents Workbench](https://github.com/zigola/ai-agents-workbench) | Tool use, bounded agent workflows, memory, and evaluation concepts | Learning project |
+| [Computer Vision Playground](https://github.com/zigola/computer-vision-playground) | Image processing and computer vision experiments with Python and OpenCV | Learning project |
+| [NLP Text Classification](https://github.com/zigola/nlp-text-classification) | Text preprocessing, classification baselines, and model evaluation | Learning project |
+| [LLM Prompt Engineering Lab](https://github.com/zigola/llm-prompt-engineering-lab) | Reproducible prompt experiments and structured evaluation | Learning project |
+| [Developer Tools Learning Lab](https://github.com/zigola/skills-copilot-codespaces-vscode) | GitHub Copilot, Codespaces, VS Code, and AI-assisted development workflows | Learning project |
+
+<details>
+<summary><strong>Explore all public repositories</strong></summary>
+
+Browse the complete [repository list](https://github.com/zigola?tab=repositories), including projects and experiments that are not featured above.
+
+</details>
+
+## Areas of interest
+
+| Area | Topics |
+| --- | --- |
+| Artificial Intelligence | Machine learning, AI applications, automation, and responsible evaluation |
+| Data Science | Data cleaning, exploratory analysis, visualization, and interpretation |
+| Python Engineering | Reusable tools, scripts, APIs, testing, and maintainable code |
+| Scientific Computing | Computational experiments, modeling, and reproducible workflows |
+| Biomedical Sciences | Biomedical data, computational biology, and bioinformatics |
+| Earth Observation | Satellite imagery, remote sensing, geospatial data, and environmental monitoring |
+| Open Source | Documentation, collaboration, and community-driven development |
+
+## Technology landscape
+
+**Languages and web:** Python · JavaScript · HTML · CSS · SQL (learning)
+
+**Data and scientific tools:** Pandas · NumPy · scikit-learn · OpenCV · Streamlit · geospatial tooling
+
+**Engineering practices:** Git · GitHub · pytest · REST APIs · Markdown · GitHub Actions
+
+> This list reflects technologies used or explored across projects. It is not a claim of equal proficiency in every tool.
+
+## How I work
+
+1. **Understand the problem** — Define the objective, constraints, and assumptions.
+2. **Build a small experiment** — Prefer a focused, testable first version.
+3. **Validate the result** — Use tests, representative data, and explicit limitations.
+4. **Document the work** — Explain setup, usage, architecture, and known gaps.
+5. **Iterate openly** — Improve through feedback and evidence.
+
+## Open-source collaboration
+
+Constructive contributions are welcome, especially improvements to:
+
+- Documentation and reproducible examples.
+- Tests, data validation, and error handling.
+- Accessibility, usability, and maintainability.
+- Scientific clarity and responsible-use guidance.
+
+Please check the contribution instructions in the relevant repository. For larger changes, open an Issue first so the proposal can be discussed.
+
+## GitHub
+
+<p>
+  <a href="https://github.com/zigola?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2563EB?style=flat-square&logo=github" alt="Browse repositories" /></a>
+  <a href="https://github.com/zigola?tab=activity"><img src="https://img.shields.io/badge/Activity-View-0D9488?style=flat-square&logo=github" alt="View activity" /></a>
+  <a href="https://github.com/zigola?tab=stars"><img src="https://img.shields.io/badge/Stars-Explore-F59E0B?style=flat-square&logo=github" alt="Explore stars" /></a>
+</p>
+
+Follow [@zigola](https://github.com/zigola) to follow future project updates. GitHub activity and repository statistics are shown by GitHub itself and may change over time.
+
+## Connect
+
+- **GitHub:** [github.com/zigola](https://github.com/zigola)
+- **LinkedIn:** [Professional profile](https://www.linkedin.com/in/ahmed-elinany-6771402b)
+- **Instagram:** [@opal_208](https://www.instagram.com/opal_208)
+- **YouTube:** [@opal_208](https://youtube.com/@opal_208)
+- **TikTok:** [@opal.208](https://www.tiktok.com/@opal.208)
+
+---
+
+<div align="center">
+
+**Explore · Experiment · Engineer · Evolve**
+
+*Building knowledge through technology, science, and open collaboration.*
 
 </div>
