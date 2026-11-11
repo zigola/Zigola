@@ -4,9 +4,9 @@
 
 # OPAL_208 · ZIGOLA
 
-### Software development, artificial intelligence, and scientific computing.
+### Software Developer | AI Engineer in Progress | Web & Data Technologies
 
-**Python · AI & Machine Learning · Data Science · Bioinformatics · Earth Observation**
+**Python · JavaScript · Web Development · AI & Machine Learning · Data Science · APIs**
 
 <p>
   <a href="https://github.com/zigola"><img src="https://img.shields.io/github/followers/zigola?label=Followers&style=for-the-badge&logo=github&color=0D9488" alt="GitHub followers" /></a>
@@ -22,9 +22,9 @@
 
 ## About
 
-I am **Opal_208 (@zigola)**, a **biomedical sciences student from Morocco** exploring **Python development, artificial intelligence, data science, bioinformatics, and scientific computing**.
+I am **Opal_208 (@zigola)**, focused on **software development, web technologies, artificial intelligence, and data-driven applications**.
 
-I build and document practical projects at the intersection of technology and science, including experiments in **machine learning, generative AI, NLP, computer vision, geospatial analysis, and Earth observation**. My work is learning-oriented: I aim to make methods understandable, results testable, and project limitations clear.
+I build and document practical projects using **Python, JavaScript, APIs, machine learning, NLP, computer vision, and geospatial technologies**. My focus is on writing maintainable code, building useful applications, testing ideas, and documenting technical work clearly.
 
 My approach is grounded in four principles:
 
@@ -38,8 +38,8 @@ My approach is grounded in four principles:
 - Strengthening Python development, software design, and testing practices.
 - Exploring responsible AI, retrieval-augmented generation, NLP, computer vision, and AI agents.
 - Developing **PLEIADES**, an experimental wildfire-awareness project using satellite observations and simulated sensor data.
-- Exploring bioinformatics, biomedical data, and reproducible scientific workflows.
-- Building accessible, responsive, and maintainable web experiences.
+- Building accessible, responsive, and maintainable web applications.
+- Improving frontend development, interface implementation, and API integration.
 
 ## Featured projects
 
@@ -68,8 +68,8 @@ Browse the complete [repository list](https://github.com/zigola?tab=repositories
 | Artificial Intelligence | Machine learning, AI applications, automation, and responsible evaluation |
 | Data Science | Data cleaning, exploratory analysis, visualization, and interpretation |
 | Python Engineering | Reusable tools, scripts, APIs, testing, and maintainable code |
-| Scientific Computing | Computational experiments, modeling, and reproducible workflows |
-| Biomedical Sciences | Biomedical data, computational biology, and bioinformatics |
+| Software Engineering | Application architecture, debugging, testing, and maintainable code |
+| Web Development | Frontend development, responsive interfaces, accessibility, and API integration |
 | Earth Observation | Satellite imagery, remote sensing, geospatial data, and environmental monitoring |
 | Open Source | Documentation, collaboration, and community-driven development |
 
@@ -116,9 +116,7 @@ Follow [@zigola](https://github.com/zigola) to follow future project updates. Gi
 
 - **GitHub:** [github.com/zigola](https://github.com/zigola)
 - **LinkedIn:** [Professional profile](https://www.linkedin.com/in/ahmed-elinany-6771402b)
-- **Instagram:** [@opal_208](https://www.instagram.com/opal_208)
-- **YouTube:** [@opal_208](https://youtube.com/@opal_208)
-- **TikTok:** [@opal.208](https://www.tiktok.com/@opal.208)
+- **Behance:** Web design and UI/UX portfolio link to be added.
 
 ---
 
@@ -126,6 +124,6 @@ Follow [@zigola](https://github.com/zigola) to follow future project updates. Gi
 
 **Explore · Experiment · Engineer · Evolve**
 
-*Building knowledge through technology, science, and open collaboration.*
+*Building software, exploring technology, and contributing through code.*
 
 </div>
